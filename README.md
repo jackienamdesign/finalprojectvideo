@@ -1,2 +1,2 @@
 # finalprojectvideo
-[video](Video.mp4)
+[video](Video.MP4)

@@ -2,3 +2,8 @@
 [video](Video.MP4) <br>
 [JackiesClip](JackiesClip.mov) <br>
 [transition-vid](transition-vid.mp4) <br>
+[reindeer-taste-hotchoco](reindeer-taste-hotchoco.mp4) <br>
+[santa-baking-pie](santa-baking-pie.mp4) <br>
+[santa-build-gingerbread](santa-build-gingerbread.mp4) <br>
+[snowman-bake-hotchoco](snowman-bake-hotchoco.mp4) <br>
+[snowman-build-gingerbread](snowman-build-gingerbread.mp4) <br>
